@@ -1,5 +1,5 @@
 # DeepLive
-Pulls Tweets and translates them into English
+Fetches Tweets from select users and translates them into English using DeepL
 
 ## Architecture
 ![Architecture](./resources/Architecture.png)
